@@ -1,4 +1,4 @@
-package HackersRank.Algorithm.Implementation.AppleAndOrange;
+package Algorithm.Implementation.AppleAndOrange;
 
 import java.io.*;
 import java.util.*;

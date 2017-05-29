@@ -1,4 +1,4 @@
-package HackersRank.Algorithm.Implementation.Kangaroo;
+package Algorithm.Implementation.Kangaroo;
 
 /**
 There are two kangaroos on an x-axis ready to jump in the positive direction (i.e, toward positive infinity). The first kangaroo starts at location  and moves at a rate of  meters per jump. The second kangaroo starts at location  and moves at a rate of  meters per jump. Given the starting locations and movement rates for each kangaroo, can you determine if they'll ever land at the same location at the same time?
