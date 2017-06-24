@@ -34,6 +34,7 @@ public class Solution1 {
         int[] f=getCharCount(first);
         int[] s=getCharCount(second);
         return getDifference(f,s);
+        
     }
   
     public static void main(String[] args) {
